@@ -31,6 +31,12 @@ module.exports.routes = {
   * `assets` directory)                                                      *
   *                                                                          *
   ***************************************************************************/
+  // 'get /gimmeproducts' : {
+  //   controller: "gimmeproducts",
+  //   view: "gimmeProducts"
+  // },
+
+  '/gimmeproducts' : 'GimmeProductsController.OutputStoreInfoWithLocations',
 
   '/': {
     view: 'homepage'

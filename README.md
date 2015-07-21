@@ -1,4 +1,4 @@
-# snappy-backend-trial
+#  snappy-backend-trial
 
 This app was created to evaluate the problem solving skills of developer applicants.  There are many valid solutions.  We are looking for the most simple and clean with consideration of the features and conventions of the framework (Sails.js).
 
